@@ -1,0 +1,8 @@
+{
+    "helloWorld": "¡Hola Mundo!",
+    "login": "acceso",
+    "logout": "cerrar sesión",
+    "register": "Registro",
+    "signUp": "Inscribirse",
+    "welcome": "Bienvenido"
+}

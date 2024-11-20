@@ -1,0 +1,8 @@
+{
+    "helloWorld": "こんにちは",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "register": "登録する",
+    "signUp": "サインアップ",
+    "welcome": "ようこそ"
+}

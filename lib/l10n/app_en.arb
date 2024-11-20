@@ -1,0 +1,11 @@
+{
+  "helloWorld": "Hello World!",
+  "login": "login",
+  "logout": "Logout",
+  "register": "Register",
+  "signUp": "Sign Up",
+  "welcome": "Welcome",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
